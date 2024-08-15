@@ -17,9 +17,9 @@
 
 ### ⭐ &nbsp;My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,java,kotlin,c,cs,cpp,py,dart,swift,js,ts,html,css,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,java,kotlin,py,dart,swift,js,ts,html,css,md)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,angular,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,angular,spring,django,bootstrap)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,firebase,mongodb,sqlite)](https://skillicons.dev)
 
