@@ -13,7 +13,7 @@
 
 📫 &nbsp;How to reach me: [santi31074@gmail.com].
 
-⚡ &nbsp;Fun fact: I’m a coding enthusiast who enjoys combining the power of modern programming languages with the principles of clean code and security, ensuring that my applications are not only functional but also secure and maintainable.
+⚡ &nbsp;I’m a coding enthusiast who enjoys combining the power of modern programming languages with the principles of clean code and security, ensuring that my applications are not only functional but also secure and maintainable.
 
 ### ⭐ &nbsp;My Skills
 
