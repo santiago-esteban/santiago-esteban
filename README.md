@@ -19,11 +19,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,java,kotlin,py,dart,js,ts,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,angular,react,spring,django,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,angular,react,spring,maven,dotnet,django,bootstrap,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,mysql,postgres,firebase,mongodb,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow,azure,docker,mysql,postgres,firebase,supabase,mongodb,sqlite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,idea,eclipse,postman,unity,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,visualstudio,idea,androidstudio,eclipse,postman,unity,figma)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
