@@ -3,7 +3,7 @@
 ### 🌍 &nbsp;About Me
 🔭 &nbsp;I’m currently working on Full Stack development at NEORIS, where I focus on building robust applications.
 
-🌱 &nbsp;I’m currently learning advanced concepts in Cybersecurity through my master's degree.
+🌱 &nbsp;I’m learning advanced concepts in Cybersecurity through my master's degree.
 
 👯 &nbsp;I want to leverage my skills in Dart, TypeScript, and Java, with frameworks like Flutter, Angular or Spring Boot.
 
