@@ -15,7 +15,9 @@
 
 ### ⭐ &nbsp;My Skills
 
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=git,java,kotlin,py,dart,js,ts,html,css,flutter,angular,react,spring,maven,dotnet,django,bootstrap,tailwind,azure,docker,mysql,postgres,firebase,supabase,mongodb,sqlite,github,vscode,visualstudio,idea,androidstudio,eclipse,postman,unity,figma)](https://skillicons.dev)
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
