@@ -27,6 +27,5 @@
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=santiago-esteban&theme=dark&hide_border=true"/>
-  ![Night-Coding](https://github.com/user-attachments/assets/f69e25b9-6a61-4d5a-9b3f-d358d08eae37)
-
+  <img height="180em" src="https://github.com/user-attachments/assets/f69e25b9-6a61-4d5a-9b3f-d358d08eae37"/>
 </p>
