@@ -15,7 +15,7 @@
 
 ### ⭐ &nbsp;My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=git,java,kotlin,py,c,cs,cpp,dart,go,js,ts,html,css,flutter,angular,react,spring,maven,dotnet,gradle,django,bootstrap,tailwind,ai,azure,docker,mysql,postgres,firebase,supabase,mongodb,sqlite,github,vscode,visualstudio,idea,androidstudio,eclipse,postman,unity,figma,discord,gmail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,java,kotlin,py,c,cs,cpp,dart,go,js,ts,html,css,flutter,angular,react,spring,maven,dotnet,gradle,npm,django,bootstrap,tailwind,ai,azure,docker,mysql,postgres,firebase,supabase,mongodb,sqlite,github,jenkins,vscode,visualstudio,idea,androidstudio,eclipse,postman,unity,figma,discord,gmail)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
