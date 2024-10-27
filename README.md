@@ -5,7 +5,7 @@
 
 🌱 &nbsp;I’m learning advanced concepts in Cybersecurity through my master's degree.
 
-👯 &nbsp;I want to leverage my skills in Dart, TypeScript, and Java, with frameworks like Flutter, Angular or Spring Boot.
+👯 &nbsp;I want to leverage my skills in Dart, JavaScript, and Java, with frameworks like Flutter, Angular or Spring Boot.
 
 🤔 &nbsp;I’m looking for deepening my understanding of secure coding and application security.
 
