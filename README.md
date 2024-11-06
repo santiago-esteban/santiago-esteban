@@ -1,17 +1,17 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Santi -->
 
 ### 🌍 &nbsp;About Me
-🔭 &nbsp;I’m currently working on full stack development at NEORIS, where I focus on building robust applications.
+📍 &nbsp;I’m currently working on full stack development at NEORIS, where I focus on building robust applications.
 
-🌱 &nbsp;I’m learning advanced concepts in Cybersecurity through my master's degree.
+🧠 &nbsp;I’m learning advanced concepts in Cybersecurity through my master's degree.
 
-👯 &nbsp;I want to leverage my skills in Dart, JavaScript, and Java, with frameworks like Flutter, Angular or Spring Boot.
+💻 &nbsp;I want to leverage my skills in Dart, JavaScript, and Java, with frameworks like Flutter, Angular or Spring Boot.
 
-🤔 &nbsp;I’m looking for deepening my understanding of secure coding and application security.
+🔐 &nbsp;I’m looking for deepening my understanding of secure coding and application security.
 
 ⚡ &nbsp;I enjoy combining the power of modern programming languages with the principles of clean code and security.
 
-📫 &nbsp;How to reach me: `santiago.esteban.developer@gmail.com`.
+📥 &nbsp;How to reach me: `santiago.esteban.developer@gmail.com`.
 
 ### ⭐ &nbsp;My Skills
 
