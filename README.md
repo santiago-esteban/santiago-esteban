@@ -1,7 +1,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Santi -->
 
 ### 🌍 &nbsp;About Me
-📍 &nbsp;I’m currently working on Full Stack development at NEORIS, where I focus on building robust applications.
+📍 &nbsp;I’m currently working on Full Stack development, where I focus on building robust applications.
 
 🧠 &nbsp;I’m learning advanced concepts in Cybersecurity through my master's degree.
 
